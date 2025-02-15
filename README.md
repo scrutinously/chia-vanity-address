@@ -13,7 +13,7 @@ In windows, double clicking the exe file will open the program in command prompt
 ## Building from source
 1. Install Rust and Cargo using rustup. Follow the instructions here: https://www.rust-lang.org/tools/install
 2. Clone this repository to your local machine:
-   ```bash
+```bash
 git clone https://github.com/scrutinously/chia-vanity-address.git
 cd chia-vanity-address
 cargo build --release (or cargo run)
